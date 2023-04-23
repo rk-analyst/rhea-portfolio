@@ -55,7 +55,7 @@
    * spacing
    */
 
-  --section-padding: 90px;
+  --section-padding: 10px;
 
   /**
    * box shadow
@@ -697,7 +697,7 @@ textarea.input-field {
      * spacing
      */
 
-    --section-padding: 120px;
+    --section-padding: 60px;
 
   }
 
