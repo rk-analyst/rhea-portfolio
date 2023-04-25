@@ -565,7 +565,9 @@ textarea.input-field {
 .footer .social-link { color: var(--charcoal); }
 
 
-
+.recommendor {
+  text-align: right;
+}
 
 
 /*-----------------------------------*\
